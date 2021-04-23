@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">final_rowe</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ball_item">Ball Item</string>
+    <string name="x_axis">x-axis</string>
+    <string name="y_axis">y-axis</string>
+    <string name="z_axis">z-axis</string>
+
+</resources>
